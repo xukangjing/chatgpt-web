@@ -30,8 +30,8 @@ export default {
   },
   chat: {
     newChatButton: '新建聊天',
-		placeholder: '小冉冉，来说点什么吧...（Shift + Enter = 换行，"/" 触发提示词）',
-		placeholderMobile: '小冉冉，来说点什么...',
+		placeholder: 'send a meesage（Shift + Enter = 换行，"/" 触发提示词）',
+		placeholderMobile: 'send a meesage',
     copy: '复制',
     copied: '复制成功',
     copyCode: '复制代码',
